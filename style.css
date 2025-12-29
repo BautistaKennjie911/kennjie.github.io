@@ -272,6 +272,8 @@ footer {
     text-align: center;
     padding: 2rem;
     color: #9470c9;
+    background-color: black;
+    
 }
 
 @media (max-width: 968px) {
@@ -299,3 +301,4 @@ footer {
     .hero-text h1 { font-size: 3.5rem; }
 
 }
+
