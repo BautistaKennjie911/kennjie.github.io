@@ -268,11 +268,9 @@ blockquote {
     transform: translateY(-8px);
 }
 
-/* Footer */
 footer {
     text-align: center;
-    padding: 3rem;
-    background: #0f061a;
+    padding: 2rem;
     color: #9470c9;
 }
 
@@ -299,4 +297,5 @@ footer {
     }
     .nav-menu.active { left: 0; }
     .hero-text h1 { font-size: 3.5rem; }
+
 }
